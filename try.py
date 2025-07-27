@@ -1,3 +1,4 @@
-import os
+import sys
 
-os.remove("hello.py")
+
+print(sys.path)
